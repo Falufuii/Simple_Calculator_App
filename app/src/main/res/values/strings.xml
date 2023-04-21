@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Minus">Minus</string>
+    <string name="Plus">Plus</string>
+    <string name="Mutiply">Mutiply</string>
+    <string name="Divide">Divide</string>
+    <string name="โปรดเลือกเมนู">โปรดเลือกเมนู</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_number2">Enter Number</string>
+    <string name="answer">Answer</string>
+</resources>
