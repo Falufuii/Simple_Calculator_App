@@ -2,7 +2,7 @@
 
 Create a simple application with android studio
 
-Here is the example of how it look like : 
+Here is the example of what it look like : 
 
 ![ex_app1](https://user-images.githubusercontent.com/113985744/233755900-c0fddc01-85c6-4e2b-9442-869889b477a9.png)
 
