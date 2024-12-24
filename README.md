@@ -1,4 +1,4 @@
-# Example_Application
+# Simple_Calculator_App
 
 Create a simple application with android studio
 
